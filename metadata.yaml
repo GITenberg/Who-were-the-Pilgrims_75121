@@ -1,0 +1,31 @@
+_repo: Who-were-the-Pilgrims_75121
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Davis, William T. (William Thomas)
+    aliases:
+    - Davis, William Thomas
+    - Davis, Wm. T. (William Thomas)
+    birthdate: 1822
+    deathdate: 1907
+    gutenberg_agent_id: '55753'
+    url: http://www.gutenberg.org/2009/agents/55753
+description: ''
+gutenberg_issued: '2025-01-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75121'
+language: en
+pgterms:marc904: https://archive.org/details/harpers-1882-vol-64/page/245/mode/2up
+pgterms:marc905: 20250112112734davis
+pgterms:marc906: '1882'
+pgterms:marc907: US
+production_note: Steve Mattern
+publication_note: '  $aNew York :$bHarper and Brothers, $c1882.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Who were the Pilgrims?
+url: http://www.gutenberg.org/ebooks/75121
